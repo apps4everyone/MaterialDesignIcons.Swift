@@ -406,6 +406,7 @@ public enum MaterialDesignIcons: String {
 	case clipboardFlow = "\u{F6C7}"
 	case clipboardOutline = "\u{F14D}"
 	case clipboardText = "\u{F14E}"
+    case clipboardPlus : "\u{F750}"
 	case clippy = "\u{F14F}"
 	case clock = "\u{F150}"
 	case clockAlert = "\u{F5CE}"
