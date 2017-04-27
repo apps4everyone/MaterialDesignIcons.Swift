@@ -365,7 +365,7 @@ public enum MaterialDesignIcons: String {
 	case chartTimeline = "\u{F66E}"
 	case check = "\u{F12C}"
 	case checkAll = "\u{F12D}"
-	case checkCircle = "\u{F5E0}"
+    case checkCircle = "\u{F5E0}"
 	case checkCircleOutline = "\u{F5E1}"
 	case checkboxBlank = "\u{F12E}"
 	case checkboxBlankCircle = "\u{F12F}"
@@ -1848,5 +1848,5 @@ public enum MaterialDesignIcons: String {
 	case yinYang = "\u{F67F}"
 	case youtubePlay = "\u{F5C3}"
 	case zipBox = "\u{F5C4}"
-
+    case deny = "\u{F739}"
 }
