@@ -1848,5 +1848,6 @@ public enum MaterialDesignIcons: String {
 	case yinYang = "\u{F67F}"
 	case youtubePlay = "\u{F5C3}"
 	case zipBox = "\u{F5C4}"
-    case deny = "\u{F739}"
+    	case deny = "\u{F739}"
+	case back = "\u{E5C4}"
 }
