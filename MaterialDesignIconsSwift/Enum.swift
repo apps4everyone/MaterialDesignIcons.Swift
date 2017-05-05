@@ -1849,5 +1849,5 @@ public enum MaterialDesignIcons: String {
 	case youtubePlay = "\u{F5C3}"
 	case zipBox = "\u{F5C4}"
     	case deny = "\u{F739}"
-	case back = "\u{E5C4}"
+	case arrow_back = "\u{E5C4}"
 }
